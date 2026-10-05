@@ -1,4 +1,4 @@
-# SIEM Threat Detection & Automated Response Lab
+# SIEM Threat Detection & Monitoring Lab
 ![Wazuh](https://img.shields.io/badge/Wazuh-4.14.7-blue?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-29.7.2-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-26.0.5-blue?style=for-the-badge&logo=keycloak&logoColor=white)
